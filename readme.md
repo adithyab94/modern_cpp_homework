@@ -1,6 +1,6 @@
 # Modern C++ Course For CV (2020)
 
-> source file for each homework can be found [here](https://www.ipb.uni-bonn.de/teaching/cpp-2020/tutorials/).
+> source file for each homework can be found [here](https://www.ipb.uni-bonn.de/teaching/cpp-2020/tutorials/) and [Lectures](https://www.ipb.uni-bonn.de/teaching/cpp-2020/lectures/)
 
 ## Homework Assignments
 
